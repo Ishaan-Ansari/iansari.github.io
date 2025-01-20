@@ -38,11 +38,11 @@ social:
   email: mihansari.jh@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/iamihansari # change to your Twitter homepage
+    - https://github.com/ishaan-ansari # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/ishaanansari
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: https://media.licdn.com/dms/image/v2/D4D03AQF0F5E-1XYZAg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715687320753?e=1743033600&v=beta&t=PWQ1YubVra7fo9S3AlkkWhNpCCKWzDlJ5chKcryhO34
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
